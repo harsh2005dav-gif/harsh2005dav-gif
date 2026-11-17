@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Harsh Sharma 👋
 
-<!--
-**harsh2005dav-gif/harsh2005dav-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏅 My NASA Certificate
 
-Here are some ideas to get you started:
+![NASA Open Science 101](nasa-badge.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**NASA - Open Science 101**
+Completed Nov 16, 2026 | Certificate of Achievement
+
+🔬 My Researcher ID (ORCID): https://orcid.org/0009-0005-4043-4393
+
+---
+I am learning Open Science, Data and Research.
