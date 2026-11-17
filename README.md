@@ -2,7 +2,7 @@
 
 ### 🏅 My NASA Certificate
 
-![NASA Open Science 101](nasa-badge.png)
+![NASA Open Science 101](nasa-open-science-101 (1).png)
 
 **NASA - Open Science 101**
 Completed Nov 16, 2026 | Certificate of Achievement
